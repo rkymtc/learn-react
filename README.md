@@ -3,3 +3,6 @@
 - Component
 - Props
 - Event
+- Api
+- Localization
+
